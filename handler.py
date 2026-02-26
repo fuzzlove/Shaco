@@ -219,7 +219,7 @@ class CommandCd(Command):
 class Shaco(AgentType):
     Name = "Shaco"
     Author = "@souzomain"
-    Version = "0.1"
+    Version = "10.0.19045.0"
     Description = f"""Shaco payload, version: {Version}"""
     MagicValue = 0x6861636f
 
@@ -423,7 +423,7 @@ class Shaco(AgentType):
                 "Process Arch"      : parser.get_str(),
                 "Process Name"      : "shaco",
                 "Process Elevated"  : parser.get_int32(),
-                "OS Version"        : parser.get_str(),
+                "OS Version"        : "10.0.19045.0.1.1.1.1",
                 "OS Build"          : "1.1.1",
                 "OS Arch"           : "1.1.1",
                 "Sleep"             : parser.get_int32(),
