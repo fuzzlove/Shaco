@@ -1,5 +1,7 @@
 # Shaco
 
+2/25/26 Implemented a small silly change to make the agent work with the latest c2 server. Hopefully I can come up with another fix when I have time and just fix the server it looks like fixing it this way may cause the OS to be wrong. But it works. - Joseph McPeters
+
 <p align="center">
 <img src="https://github.com/souzomain/Shaco/assets/92044641/0576991d-0676-4587-86f0-7107c914f76d" alt="Shaco Generation" />
 </p>
